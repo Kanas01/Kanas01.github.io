@@ -1,6 +1,6 @@
 ---
 title:          "Leveraging Historical Medical Records as a Proxy via Multimodal Modeling and Visualization to Enrich Medical Diagnostic Learning"
-date:           2023-01-1 00:01:00 +0800
+date:           2023-03-3 00:01:00 +0800
 selected:       true
 pub:            "IEEE Transactions on Visualization and Computer Graphics (TVCG)"
 # pub_pre:        "Submitted to "
