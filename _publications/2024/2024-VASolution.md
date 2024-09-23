@@ -10,7 +10,7 @@ pub_date:       "2024"
 
 abstract: >-
   Photo by Pineapple Supply Co. on Unsplash. Massa ultricies mi quis hendrerit dolor magna. Arcu non odio euismod lacinia at quis risus sed. Et tortor at risus viverra. Enim neque volutpat ac tincidunt. Dictum varius duis at consectetur lorem donec.
-cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/VASolution.png
 authors:
   - Yuchen Wu
   - Shenghan Gao
@@ -19,6 +19,6 @@ authors:
   - Xingbo Wang
   - Quan Li
 links:
-  # Code: https://github.com/luost26/academic-homepage
+  Website: https://upddp.github.io/
   # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
