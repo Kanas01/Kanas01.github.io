@@ -8,7 +8,7 @@ pub:            "IEEE Transactions on Visualization and Computer Graphics (TVCG)
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">VIS 2023</span>'
 pub_date:       "2023"
 abstract: >-
-  Photo by Dessy Dimcheva on Unsplash. Viverra nibh cras pulvinar mattis nunc sed. Quam quisque id diam vel quam elementum pulvinar etiam. Ac felis donec et odio pellentesque. Ligula ullamcorper malesuada proin libero nunc consequat interdum varius sit. A pellentesque sit amet porttitor eget. Magna fermentum iaculis eu non diam phasellus vestibulum lorem sed.
+  This study identified computational features, formulated design requirements, and developed LiveRetro , an interactive visual analytics system. It enables comprehensive retrospective analysis of livestream e-commerce for streamers, viewers, and merchandise. LiveRetro employs enhanced visualization and time-series forecasting models to align performance features and feedback, identifying influences at channel, merchandise, feature, and segment levels.
 
 cover:          /assets/images/covers/LiveRetro.png
 authors:

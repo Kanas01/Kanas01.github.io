@@ -8,7 +8,7 @@ pub_pre:        "Submitted to "
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">VIS 2023</span>'
 pub_date:       "2023"
 abstract: >-
-  Photo by Dessy Dimcheva on Unsplash. Viverra nibh cras pulvinar mattis nunc sed. Quam quisque id diam vel quam elementum pulvinar etiam. Ac felis donec et odio pellentesque. Ligula ullamcorper malesuada proin libero nunc consequat interdum varius sit. A pellentesque sit amet porttitor eget. Magna fermentum iaculis eu non diam phasellus vestibulum lorem sed.
+  We introduce Trinity, a hybrid mobile-centric delivery support system that provides guidance for multichannel delivery on-the-fly. On the desktop side, Trinity facilitates script refinement and offers customizable delivery support based on large language models (LLMs). Based on the desktop configuration, Trinity App enables a remote mobile visual control, multi-level speech pace modulation, and integrated delivery prompts for synchronized delivery.
 
 cover:          /assets/images/covers/Trinity.png
 authors:

@@ -9,7 +9,7 @@ pub_pre:        "Submitted to "
 pub_date:       "2024"
 
 abstract: >-
-  Photo by Pineapple Supply Co. on Unsplash. Massa ultricies mi quis hendrerit dolor magna. Arcu non odio euismod lacinia at quis risus sed. Et tortor at risus viverra. Enim neque volutpat ac tincidunt. Dictum varius duis at consectetur lorem donec.
+  We formulated refined topologies for data, requirements, and solutions. We propose conceptualizing the connections between requirements, data, and solutions through knowledge graphs and utilizing solution paths to encapsulate fundamental problem-solving knowledge in visual analytics research. Through the consolidation of solution paths into a graph and analyzing their interconnections, we discerned a subset of problem-driven design patterns that demonstrated the efficacy of our approach.
 cover:          /assets/images/covers/VASolution.png
 authors:
   - Yuchen Wu

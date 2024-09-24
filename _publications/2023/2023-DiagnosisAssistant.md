@@ -9,7 +9,7 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-success"
 pub_date:       "2023"
 
 abstract: >-
-  Massa ultricies mi quis hendrerit dolor magna. Arcu non odio euismod lacinia at quis risus sed. Et tortor at risus viverra. Enim neque volutpat ac tincidunt. Dictum varius duis at consectetur lorem donec.
+  We present DiagnosisAssistant, a visual analytics system that leverages historical medical records as a proxy for multimodal modeling and visualization to enhance the learning experience of interns and novice physicians. The system employs elaborately designed visualizations to explore different modality data, offer diagnostic interpretive hints based on the constructed model, and enable comparative analyses of specific patients.
 cover:          /assets/images/covers/DiagnosisAssistant.png
 authors:
   - Yang Ouyang
