@@ -12,7 +12,7 @@ abstract: >-
 
 cover:          /assets/images/covers/Trinity.png
 authors:
-  - *Yuchen Wu*
+  - Yuchen Wu
   - Shengxin Li
   - Shizhen Zhang
   - Xingbo Wang
