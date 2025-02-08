@@ -1,6 +1,6 @@
 ---
 title:          "From Requirement to Solution: Unveiling Problem-Driven Design Patterns in Visual Analytics"
-date:           2024-05-12 00:01:00 +0800
+date:           2025-02-02 00:01:00 +0800
 selected:       true
 pub:            "IEEE Transactions on Visualization and Computer Graphics (TVCG)"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">TVCG 2025</span>'
