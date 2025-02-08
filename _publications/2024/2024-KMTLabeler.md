@@ -1,7 +1,7 @@
 ---
 title:          "KMTLabeler: An Interactive Knowledge-Assisted Labeling Tool for Medical Text Classification"
 date:           2024-01-05 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "IEEE Transactions on Visualization and Computer Graphics (TVCG)"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">TVCG 2024</span>'
 pub_date:       "2024"
