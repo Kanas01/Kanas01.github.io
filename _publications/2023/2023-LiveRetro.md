@@ -1,7 +1,7 @@
 ---
 title:          "LiveRetro: Visual Analytics for Strategic Retrospect in Livestream E-Commerce"
 date:           2023-01-21 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "IEEE Transactions on Visualization and Computer Graphics (TVCG)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
