@@ -2,7 +2,7 @@
 title:          "OceanVive: An Immersive Visualization System for Communicating Complex Oceanic Phenomena"
 date:           2025-07-02 00:01:00 +0800
 selected:       true
-pub:            "IEEE VIS Conference 2025"
+pub:            "IEEE VIS Conference"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">VIS 2025 Short</span>'
 pub_date:       "2025"
 
