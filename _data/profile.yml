@@ -26,18 +26,22 @@ short_bio: >-
   </p>
   <p>
     I am with an open mind to explore my research potential in diverse avenues during my MCs study. Thus, I have dived into areas of Visual Analytics, Hybrid User Interface, Theories/Methodologies, and VR/AR. 
-    My current research interest in doctoral study centers around - <u>Facilitating enhanced working and living with wearable agents through the integration of visualization and intelligence.</u> Never hesitate to reach out if you see collaboration potentials!
+    My current research interest in doctoral study converges towards - <u>Mitigating tensions between humans and wearable agents in pervasive contexts through the integration of visualization and intelligence.</u> Never hesitate to reach out if you see collaboration potentials!
   </P>
 
 portrait_url: /assets/images/photos/MyPortrait.jpg
 portrait_caption: >-
-  that's just me.
+  just me :)
 
 education:
 - name: ShanghaiTech University
   logo: /assets/images/badges/Logo_of_ShanghaiTech.svg
   position: Master Student in Computer Science (MCs)
   date: Sep. 2022 - Jun. 2025
+- name: ShanghaiTech University
+  logo: /assets/images/badges/Logo_of_ShanghaiTech.svg
+  position: Bachelor Student in Computer Science (BSc)
+  date: Sep. 2018 - Jun. 2022
 
 experience:
 - name: Hong Kong University of Science and Technology
