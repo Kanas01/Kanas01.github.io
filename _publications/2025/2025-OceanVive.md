@@ -7,7 +7,7 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-primary"
 pub_date:       "2025"
 
 abstract: >-
-  We formulated refined topologies for data, requirements, and solutions. We propose conceptualizing the connections between requirements, data, and solutions through knowledge graphs and utilizing solution paths to encapsulate fundamental problem-solving knowledge in visual analytics research. Through the consolidation of solution paths into a graph and analyzing their interconnections, we discerned a subset of problem-driven design patterns that demonstrated the efficacy of our approach.
+  we present OceanVive, an immersive and interactive visualization system that transforms complex ocean datasets into navigable spatial narratives. OceanVive incorporates an exploratory panel on a table-sized tablet for managing immersive content on a large screen and integrates adaptive visual encodings, contextual storytelling, and intuitive navigation pathways to support effective communication.
 cover:          /assets/images/covers/OceanVive.png
 authors:
   - Ouyang Yang*
